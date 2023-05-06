@@ -1,3 +1,7 @@
+# all files related to website constructed in dist folder (grid-before.html , menu-categories.html , resto.html , single-category.html )
+# website is related customized restaurtant containing just front-end 
+
+
 # [Bootstrap](https://getbootstrap.com/)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com/)
